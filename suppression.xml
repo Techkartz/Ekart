@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppressions xmlns="http://jeremylong.github.io/DependencyCheck/dependency-suppression.1.2.xsd">
+    <suppress>
+        <cpe>cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:*:*:*:*:free:wordpress:*:*</cpe>
+    </suppress>
+</suppressions>
